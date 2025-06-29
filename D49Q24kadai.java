@@ -7,7 +7,6 @@ public class D49Q24kadai {
             sum += values[i];
         }
 
-        System.out.println(sum / values.length);
         System.out.println(sum);
         System.out.println(values.length);
     }

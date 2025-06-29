@@ -4,6 +4,6 @@ public class D49Q18kadai {
         int capacity = 30;
         int cargo = 2;
 
-
+        System.out.println((double)total-capacity-total/(capacity/cargo));
     }
 }
